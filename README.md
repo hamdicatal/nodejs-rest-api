@@ -6,3 +6,7 @@ NodeJS Express ve MongoDB kullanılarak geliştirilmiş bir Restful API örneği
 - Express
 - MongoDB
 - MongoDB Atlas
+
+## Başlatmak için;
+
+> npm start
